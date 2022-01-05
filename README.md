@@ -1,3 +1,3 @@
 # HELLO
 merging 3 branches
-\n branch 2
+branch 2
